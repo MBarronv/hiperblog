@@ -15,6 +15,8 @@ body{
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
+    background: #ddd;
+
 }
 
 
@@ -35,10 +37,10 @@ body{
 
 
 #cabecera #logo{
-
     width: 20px;
     vertical-align: middle;
 
+} 
 
 #cabecera #tagline{
     padding: 0 0 0 1em;
