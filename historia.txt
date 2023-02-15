@@ -2,4 +2,4 @@ este es el commit 2
 
 este es el commit 3
 
-ekimColab el primer colaborador del proyecto
+ekimColab es una persona que contribuye en este proyecto convertido a open source
